@@ -1,0 +1,7 @@
+# Equivalent to user's test2.txt. Nodes 1-3 remapped to 51-53. Weights changed.
+# Contains duplicate edges with different weights.
+51, 52, 15
+52, 53, 25
+51, 52, 8
+52, 53, 18
+53, 51, 12

@@ -1,0 +1,9 @@
+# Equivalent to user's test1.txt. Nodes 1-5 remapped to 101-105. Weights changed.
+101, 102, 12
+102, 103, 18
+103, 104, 10
+104, 105, 15
+101, 103, 7
+102, 104, 22
+103, 105, 8
+105, 101, 11
